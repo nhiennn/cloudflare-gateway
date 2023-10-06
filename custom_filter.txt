@@ -7,3 +7,5 @@ data.mistat.xiaomi.com
 tracking.rus.miui.com
 iadsdk.apple.com
 samsung-com.112.2o7.net
+iadsdk.apple.com
+data.mistat.xiaomi.com
