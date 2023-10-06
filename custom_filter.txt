@@ -1,0 +1,9 @@
+advertising-api-eu.amazon.com
+ad.doubleclick.net
+log.byteoversea.com
+udc.yahoo.com
+udcm.yahoo.com
+data.mistat.xiaomi.com
+tracking.rus.miui.com
+iadsdk.apple.com
+samsung-com.112.2o7.net
